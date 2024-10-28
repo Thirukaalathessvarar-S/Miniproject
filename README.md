@@ -71,8 +71,11 @@ The Alumni Bridge project is built to connect students and alumni for mentorship
 
 ## Articles published / References
 [1]      Anne C. Campbell   (April 2019 ). Exploring the attributes and practices of alumni associations that advance social change. Jossey-Bass. 
+
 [2]       Aaron W Hughey (January 2003 ). The role of the alumni association in student life.
+
 [3]       Jackson J.S. Cabo  (December 2023 ). The Role of Alumni Networks and Career Advising in Early Career Stability of Urologists: Results of a Multi-institutional Study
+
 [4]	Retnowati Wiranto  (June 2021, e06679). Alumni satisfaction in terms of classroom infrastructure, lecturer professionalism, and curriculum
 
 
